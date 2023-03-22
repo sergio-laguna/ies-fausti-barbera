@@ -4,6 +4,8 @@ public class Optimizacion {
 
     static Scanner scanner = new Scanner(System.in);
 
+    // Esto es un comentario
+    
     public static void main(String[] args) {
         // Pedimos el texto
         System.out.println("Introduce números separados por comas");
